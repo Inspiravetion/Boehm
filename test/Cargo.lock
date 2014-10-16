@@ -1,0 +1,18 @@
+[root]
+name = "boehm_test"
+version = "0.0.1"
+dependencies = [
+ "boehm 0.0.1",
+]
+
+[[package]]
+name = "boehm"
+version = "0.0.1"
+dependencies = [
+ "boehm_bindings 0.0.1",
+]
+
+[[package]]
+name = "boehm_bindings"
+version = "0.0.1"
+

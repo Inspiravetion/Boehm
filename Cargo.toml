@@ -1,0 +1,10 @@
+[package]
+
+name    = "boehm" 
+version = "0.0.1"
+authors = [ "Charlie Lipford <charlie.lipford.code@gmail.com>" ]
+
+[dependencies.boehm_bindings]
+
+path = "src/lib/boehm_bindings"
+

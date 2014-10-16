@@ -1,0 +1,10 @@
+[package]
+
+name    = "boehm_test" 
+version = "0.0.1"
+authors = [ "Charlie Lipford <charlie.lipford.code@gmail.com>" ]
+
+[dependencies.boehm]
+
+path = ".."
+
